@@ -21,18 +21,6 @@ Vamos lá, a idéia é que você gere um fork desse repositório e crie um proje
 - PHP
 - BD MySQL
 
-## Diagrama
-
-Abaixo segue uma representação básica do processo que a tela deve seguir:
-
-```mermaid
-sequenceDiagram
-Client ->> Server: Salvar usuário
-Server -->> Client: Status Code 200
-Client ->> Server: Obter lista de usuários cadastrados
-Server -->> Client: Retornar lista de usuários cadastrados
-```
-
 ## Regras
 
 - Sobrenome, Telefone e Data de Nascimento não é obrigatório
@@ -41,3 +29,9 @@ Server -->> Client: Retornar lista de usuários cadastrados
 - Estado, Cidade e Sexo são obrigatórios
 - Permitir que um cadastro existente possa ser editado e atualizado
 - Permitir que um cadastro existente possa ser excluído
+
+## Envio do Projeto
+
+- Subir o projeto p/ o git (fork realizado)
+- Incluir os scripts de BD em arquivo .sql
+- Explicar step-by-step de reprodução da aplicação
