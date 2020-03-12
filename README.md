@@ -34,4 +34,8 @@ Vamos lá, a idéia é que você gere um fork desse repositório e crie um proje
 
 - Subir o projeto p/ o git (fork realizado)
 - Incluir os scripts de BD em arquivo .sql
-- Explicar step-by-step de reprodução da aplicação
+- Explicar passo a passo de execução da aplicação
+
+## Dúvidas/Sugestões
+
+- Abrir issue no projeto original (https://github.com/filipecoelho/projeto-teste-vaga-fullstack/issues) e serão tratadas por aqui
